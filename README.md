@@ -20,7 +20,7 @@ This project demonstrates a professional Web Application Vulnerability Assessmen
 
 ## 📄 Final Deliverable
 The full PDF report with screenshots and findings is included:
-- **DVWA_VAPT_Report.pdf**
+- **[Download Full DVWA VAPT Report] (DVWA_VAPT_Report/DVWA_VAPT_Report.pdf)**
 
 ## 👤 Author
 **Pinemula Arun Kumar**  
